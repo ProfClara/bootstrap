@@ -1,0 +1,48 @@
+
+.viagem_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+
+.viagem_mainDiv img
+{
+  width: 100%;
+}
+
+.viagem_mainDiv h5 , .viagem_mainDiv p
+{
+margin: 20px;
+}
+
+
+.filmesHead
+{ /* complete */
+     /* tamanho da fonte*/ 
+    /* é tipo espaço entre texto, imagem etc e o resto do conteúdo*/
+    /* arredonda as bordas*/
+    /* margem inferior*/
+}
+
+.filmesHead i
+{
+float: right;
+}
+
+.filmesText span
+{
+color: orange;
+}
+
+
+.livros
+{
+    margin-bottom: 20px;
+}
+
+#contato iframe
+{
+    width: 100%;
+}
+
+
+
